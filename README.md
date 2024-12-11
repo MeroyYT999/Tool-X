@@ -38,13 +38,13 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/ekadanuarta/Tool-X.git`
+* `git clone https://github.com/MeroyYT999/Tool-X`
 
 * `cd Tool-X`
 
 * `chmod +x install`
 
-* `sh install` if not work than use `./install`
+* `sh install` if not work than use `./install` if this also not work than use `bash install`
 
 ------------------------------------------------------------------------
 
